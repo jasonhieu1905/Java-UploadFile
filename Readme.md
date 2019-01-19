@@ -1,13 +1,11 @@
 ## Spring Boot File Upload / Download Rest API Example
 
-**Tutorial**: [Uploading an Downloading files with Spring Boot](https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/)
-
 ## Steps to Setup
 
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example.git
+git clone https://github.com/jasonhieu1905/Java-UploadFile.git
 ```
 
 **2. Run the app using maven**
